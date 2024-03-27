@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is archived as the [this PR](https://github.com/terraform-module/terraform-kubernetes-velero/pull/68) is now merged in the upstream repository.
+
 # Velero installation on AWS EKS Kubernetes
 
 Deploy velero to Kubernetes.
